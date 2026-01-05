@@ -42,9 +42,9 @@
 
 <img src="Rocket.gif" width="50" alt="Experience"/>***Experience***
 
-| `Position` | `Institution Club & Duration` |
+| Position` | Institution Club & Duration |
 |---|---|
-| Content Writer - *Student Press* | *JIMS Rohini· Trainee* <br> `Sep 2025 - Present` |
+| *Content Writer - Student Press* | *JIMS Rohini· Trainee* <br> `Sep 2025 - Present` |
 | *Event Coordinator* | *Start Up Cell Blogs - Institute Innovation Council JIMS* <br> `Aug 2025 - Present` |
 | *Event Coordinator* | *Gender Championship Club JIMS* <br> `Apr 2025 - Present`|
 | *Coordinator* | *National Service Society JIMS* <br> `Sep 2024 - Present`|
@@ -182,7 +182,7 @@
 `Associated with JIMS` `Feb 2025`
 
 - ***Group discussion and extempore***<br>
-*Issued by Gender Championship Club*
+*Issued by Gender Championship Club*<br>
 `Associated with JIMS` `Jan 2025`
 
 <!-- ## 📬 Connect with Me -->
