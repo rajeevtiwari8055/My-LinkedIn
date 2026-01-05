@@ -179,7 +179,7 @@
 `Associated with JIMS` `Feb 2025`
 
 - ***Group discussion and extempore***<br>
-*Issued by Gender Championship Club*<br>
+*Issued by Gender Championship Club*
 `Associated with JIMS` `Jan 2025`
 
 <!-- ## 📬 Connect with Me -->
