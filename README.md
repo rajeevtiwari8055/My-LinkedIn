@@ -12,7 +12,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Financial+Analysis+and+Valuation+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
 <!-- 👤 About Me -->
-<img src="About.gif" alt="about me" width="350"/><img src="About me1.gif" alt="Aboutme" width="120">
+<img src="About.gif" alt="about me" width="35"/><img src="About me1.gif" alt="Aboutme" width="120">
 <img align='right' src="Coordinator.gif" alt="Coding Girl" width="300">
 <a href="https://www.linkedin.com/in/aditi-jain-80069a339/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
 </a>
