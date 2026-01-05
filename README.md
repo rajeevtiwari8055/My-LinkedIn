@@ -133,7 +133,7 @@
 <!-- ## 💻 Soft Skills -->
  ***💻 Soft Skills***
  
- [Leadership](https://img.shields.io/badge/Leadership-1F2937?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-1F2937?style=for-the-badge)
 ![Communication](https://img.shields.io/badge/Communication-2563EB?style=for-the-badge)
 ![Marketing](https://img.shields.io/badge/Marketing-DB2777?style=for-the-badge)
 ![Case Studies](https://img.shields.io/badge/Case_Studies-7C3AED?style=for-the-badge)
