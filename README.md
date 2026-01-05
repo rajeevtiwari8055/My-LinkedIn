@@ -128,16 +128,6 @@
 
 <!-- ## Dynamic Line  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ## 💻 Soft Skills -->
- ***💻 Soft Skills***
- 
-![Leadership](https://img.shields.io/badge/Leadership-1F2937?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-2563EB?style=for-the-badge)
-![Marketing](https://img.shields.io/badge/Marketing-DB2777?style=for-the-badge)
-![Case Studies](https://img.shields.io/badge/Case_Studies-7C3AED?style=for-the-badge)
-![Volunteer Activities](https://img.shields.io/badge/Volunteer_Activities-15803D?style=for-the-badge)
-
 <img alt="Skills" src="Setting.gif" />
 
 <!-- ## ⚙️ Tech Stack -->
@@ -163,6 +153,15 @@
   <img  width="40" alt="Gmail" src="VS code.svg">
   <img  width="30" alt="Forms" src="Googe Forms.svg">
 </p>
+
+<!-- ## 🧠 Soft Skills -->
+ ***🧠 Soft Skills***
+ 
+![Leadership](https://img.shields.io/badge/Leadership-1F2937?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-2563EB?style=for-the-badge)
+![Marketing](https://img.shields.io/badge/Marketing-DB2777?style=for-the-badge)
+![Case Studies](https://img.shields.io/badge/Case_Studies-7C3AED?style=for-the-badge)
+![Volunteer Activities](https://img.shields.io/badge/Volunteer_Activities-15803D?style=for-the-badge)
 
 <!-- ## Dynamic Line  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
