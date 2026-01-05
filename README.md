@@ -42,9 +42,9 @@
 
 <img src="Rocket.gif" width="50" alt="Experience"/>***Experience***
 
-| Position | Institution Club & Duration |
+| `Position` | `Institution Club & Duration` |
 |---|---|
-| Content Writer - Student Press* | *JIMS Rohini· Trainee* <br> `Sep 2025 - Present` |
+| Content Writer - *Student Press* | *JIMS Rohini· Trainee* <br> `Sep 2025 - Present` |
 | *Event Coordinator* | *Start Up Cell Blogs - Institute Innovation Council JIMS* <br> `Aug 2025 - Present` |
 | *Event Coordinator* | *Gender Championship Club JIMS* <br> `Apr 2025 - Present`|
 | *Coordinator* | *National Service Society JIMS* <br> `Sep 2024 - Present`|
@@ -172,8 +172,7 @@
 <!--## 🏆 Honors & awards -->
 <img src="Trophy1.gif" width="35">&nbsp;***Honors & awards***
 
-- ***Best Performer*** `Apr 2025`
-<br>
+- ***Best Performer*** `Apr 2025`<br>
 *Panel Discussion by GCC on topic - Invisible Load and Emotional Labour*
 
 - **1st Prize on Legal Lens Quiz Competition and Case Analysis***
@@ -182,8 +181,7 @@
 - ***Honoured for being a Panelist in an insightful Panel Discussion on Future of Startups in New Evolving World***
 `Associated with JIMS` `Feb 2025`
 
-- ***Group discussion and extempore***
-- <br>
+- ***Group discussion and extempore***<br>
 *Issued by Gender Championship Club*
 `Associated with JIMS` `Jan 2025`
 
