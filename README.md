@@ -72,6 +72,7 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![AI Assisted Analytics](https://img.shields.io/badge/AI%20Assisted%20Analytics-teal?style=for-the-badge&logo=openai)
 ![DAX](https://img.shields.io/badge/DAX-5B2D8B?style=for-the-badge&logo=powerbi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -84,7 +85,6 @@
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
 ![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <!-- ## Dynamic Line  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -107,8 +107,8 @@
 ![Security Analysis](https://img.shields.io/badge/Security_Analysis-14532D?style=for-the-badge)
 ![Portfolio Management](https://img.shields.io/badge/Portfolio_Management-15803D?style=for-the-badge)
 ![Stock Market Risk](https://img.shields.io/badge/Stock_Market_Risk_Assessment-B91C1C?style=for-the-badge)
-![Credit Risk Analysis](https://img.shields.io/badge/Credit_Risk_Analysis-7F1D1D?style=for-the-badge)
 ![Risk Analysis](https://img.shields.io/badge/Risk_Analysis-9A3412?style=for-the-badge)
+![Credit Risk Analysis](https://img.shields.io/badge/Credit_Risk_Analysis-7F1D1D?style=for-the-badge)
 ![Leveraged Buyout](https://img.shields.io/badge/Leveraged_Buyouts_(LBO)-4C1D95?style=for-the-badge)
 
 <!-- ## 🏦 Accounting & Corporate Financ -->
@@ -173,6 +173,7 @@
 <img src="Trophy1.gif" width="35">&nbsp;***Honors & awards***
 
 - ***Best Performer*** `Apr 2025`
+<br>
 *Panel Discussion by GCC on topic - Invisible Load and Emotional Labour*
 
 - **1st Prize on Legal Lens Quiz Competition and Case Analysis***
@@ -182,11 +183,12 @@
 `Associated with JIMS` `Feb 2025`
 
 - ***Group discussion and extempore***
+- <br>
 *Issued by Gender Championship Club*
 `Associated with JIMS` `Jan 2025`
 
 <!-- ## 📬 Connect with Me -->
-<img alt="Orange Meter" width="60" src="Contact bird.gif" /><img src="Contact.gif" width="150" alt="Contact Me"/>
+<img alt="contact" width="35" src="Contact bird.gif" /><img src="Contact.gif" width="150" alt="Contact Me"/>
 
 <!-- Typing Animation / 🤝 Connect with me -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+LinkedIn,+GitHub,+Email;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
