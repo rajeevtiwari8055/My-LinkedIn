@@ -53,7 +53,8 @@
 
 # Coordinator
 
-***Jagan Institute Of Management Studies***`JIMS Rohini`
+***Jagan Institute Of Management Studies*** `JIMS Rohini`
+<br>
 *Member of National Service Society* `Social Services`
 
 <!-- ## Dynamic Line  -->
