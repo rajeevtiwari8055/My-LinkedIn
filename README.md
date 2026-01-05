@@ -13,7 +13,7 @@
 
 <!-- 👤 About Me -->
 <img src="About.gif" alt="about me" width="35"/><img src="About me1.gif" alt="Aboutme" width="120">
-<img align='right' src="Coordinator.gif" alt="Coding Girl" width="300">
+<img align='right' src="Coordinator.gif" alt="Coding Girl" width="250">
 <a href="https://www.linkedin.com/in/aditi-jain-80069a339/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
 </a>
 
