@@ -12,7 +12,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Financial+Analysis+and+Valuation+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
 <!-- 👤 About Me -->
-<img src="About.gif" alt="about me" width="40"/><img src="About me1.gif" alt="Aboutme" width="120">
+<img src="About.gif" alt="about me" width="350"/><img src="About me1.gif" alt="Aboutme" width="120">
 <img align='right' src="Coordinator.gif" alt="Coding Girl" width="300">
 <a href="https://www.linkedin.com/in/aditi-jain-80069a339/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
 </a>
@@ -51,7 +51,7 @@
 
 <img src="Volunteering.gif" width="50" alt="Experience"/>***Volunteering***
 
-## Coordinator
+# Coordinator
 
 ***Jagan Institute Of Management Studies***`JIMS Rohini`
 *Member of National Service Society* `Social Services`
@@ -69,6 +69,7 @@
 ![Power Pivot](https://img.shields.io/badge/Power_Pivot-0078D7?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MIS Reporting](https://img.shields.io/badge/MIS_Reporting-F57C00?style=for-the-badge&logo=analytics&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
 ![AI Assisted Analytics](https://img.shields.io/badge/AI%20Assisted%20Analytics-teal?style=for-the-badge&logo=openai)
 ![DAX](https://img.shields.io/badge/DAX-5B2D8B?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -80,10 +81,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)
 ![Maths Stats](https://img.shields.io/badge/Mathematics%20%26%20Statistics-black?style=for-the-badge)
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
-![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
+![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <!-- ## Dynamic Line  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
