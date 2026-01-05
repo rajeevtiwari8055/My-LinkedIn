@@ -44,14 +44,14 @@
 
 | Position | Institution Club & Duration |
 |---|---|
-| Content Writer - Student Press* | *JIMS Rohini· Trainee* `Sep 2025 - Present` |
-| *Event Coordinator* | *Start Up Cell Blogs - Institute Innovation Council JIMS*  `Aug 2025 - Present` |
-| *Event Coordinator* | *Gender Championship Club JIMS* `Apr 2025 - Present`|
-| *Coordinator* | *National Service Society JIMS* `Sep 2024 - Present`|
+| Content Writer - Student Press* | *JIMS Rohini· Trainee* <br> `Sep 2025 - Present` |
+| *Event Coordinator* | *Start Up Cell Blogs - Institute Innovation Council JIMS* <br> `Aug 2025 - Present` |
+| *Event Coordinator* | *Gender Championship Club JIMS* <br> `Apr 2025 - Present`|
+| *Coordinator* | *National Service Society JIMS* <br> `Sep 2024 - Present`|
 
 <img src="Volunteering.gif" width="50" alt="Experience"/>***Volunteering***
 
-# Coordinator
+### Coordinator
 
 ***Jagan Institute Of Management Studies*** `JIMS Rohini`
 <br>
