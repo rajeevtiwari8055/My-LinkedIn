@@ -40,7 +40,7 @@
 
 <img src="Rocket.gif" width="50" alt="Experience"/>***Experience***
 
-| Position` | Institution Club & Duration |
+| Position | Institution Club & Duration |
 |---|---|
 | *Content Writer - Student Press* | *JIMS Rohini· Trainee* <br> `Sep 2025 - Present` |
 | *Event Coordinator* | *Start Up Cell Blogs - Institute Innovation Council JIMS* <br> `Aug 2025 - Present` |
