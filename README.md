@@ -218,7 +218,9 @@
  
 <!-- ## 🔝 Top Contributed Repositories-->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3bnJtZjFhNXFta3YzOGZmdHBqYWFwbjZtY2gwbzhjM2tkNnM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LHZyixOnHwDDy/giphy.webp" width="40">&nbsp;***Top Contributed Repositories***
+
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=aditij0918&limit=5&theme=transparent&combine_all_yearly_contributions=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
+![Top Repositories](https://github-contributor-stats.vercel.app/api?username=aditij0918&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!--## 🔥 GitHub Streak -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFibGZjZjBnMWlsZzJid3Vub3V0bjd5bTJub3Z4eXFiMjRlMnMwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RKZ9KzCcxMd0k/giphy.webp" width="40">&nbsp;***GitHub Streak***
