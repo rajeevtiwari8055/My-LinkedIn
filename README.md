@@ -102,6 +102,7 @@
 <!-- ## 🌍 Business & Management -->
  ***🌍 Business & Management***
 
+![Financial Accounting](https://img.shields.io/badge/Financial_Accounting-0C4A6E?style=for-the-badge)
 ![Business Environment](https://img.shields.io/badge/Business_Environment-365314?style=for-the-badge)
 ![Business Strategy](https://img.shields.io/badge/Business_Strategy-3F6212?style=for-the-badge)
 ![International Business](https://img.shields.io/badge/International_Business-1E40AF?style=for-the-badge)
@@ -139,7 +140,6 @@
 <!-- ## 🧠 Soft Skills -->
  ***🧠 Soft Skills***
 
-![Financial Accounting](https://img.shields.io/badge/Financial_Accounting-0C4A6E?style=for-the-badge)
 ![Leadership](https://img.shields.io/badge/Leadership-1F2937?style=for-the-badge)
 ![Communication](https://img.shields.io/badge/Communication-2563EB?style=for-the-badge)
 ![Marketing](https://img.shields.io/badge/Marketing-DB2777?style=for-the-badge)
