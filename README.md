@@ -80,9 +80,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Maths Stats](https://img.shields.io/badge/Mathematics%20%26%20Statistics-black?style=for-the-badge)
 
-<!-- ## Dynamic Line  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- ## 📊 Financial Analysis & Valuation -->
  ***📊 Financial Analysis & Valuation***
 
