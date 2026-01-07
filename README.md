@@ -78,7 +78,7 @@
 ![Predictive Analysis](https://img.shields.io/badge/Predictive_Analysis-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Maths Stats](https://img.shields.io/badge/Mathematics%20%26%20Statistics-black?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
 
 <!-- ## Dynamic Line  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
