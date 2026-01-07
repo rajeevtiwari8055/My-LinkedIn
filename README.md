@@ -9,7 +9,7 @@
 <img align="right" alt="Aditi" width="50" src="Aditi.svg" />   
 
 <!-- Typing Animation -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Financial+Analysis+and+Valuation+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=+Hi+everyone!;I'm+passionate+finance+enthusiast.;Actively+developing+skills+in+Financial+Analysis+and+Valuation+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
 <!-- 👤 About Me -->
 <img src="About.gif" alt="about me" width="35"/><img src="About me1.gif" alt="Aboutme" width="120">
