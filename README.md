@@ -72,7 +72,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![AI Assisted Analytics](https://img.shields.io/badge/AI%20Assisted%20Analytics-teal?style=for-the-badge&logo=openai)
 ![DAX](https://img.shields.io/badge/DAX-5B2D8B?style=for-the-badge&logo=powerbi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Predictive Analysis](https://img.shields.io/badge/Predictive_Analysis-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI%20%26%20Prompt%20Engineering-purple?style=for-the-badge&logo=openai)
@@ -126,12 +125,10 @@
   <img  width="40" alt="Tableau" src="Tableau.svg">
   <img  width="30" alt="Power BI" src="Power BI.svg">
   <img  width="30" alt="SQL" src="SQL.svg">
-  <img  width="40" alt="Git" src="Git.svg">
   <img  width="40" alt="Github" src="GitViolet.svg">
   <img  width="70" alt="WPS Office" src="WPS Office.svg">
   <img  width="40" alt="OpenAI" src="OpenAI.svg">
   <img  width="40" alt="Canva" src="Canva.svg">
-  <img  width="40" alt="Gmail" src="VS code.svg">
   <img  width="30" alt="Forms" src="Googe Forms.svg">
 </p>
 
@@ -200,7 +197,6 @@
 <!-- ## 🔝 Top Contributed Repositories-->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3bnJtZjFhNXFta3YzOGZmdHBqYWFwbjZtY2gwbzhjM2tkNnM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LHZyixOnHwDDy/giphy.webp" width="40">&nbsp;***Top Contributed Repositories***
 
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=aditij0918&limit=5&theme=transparent&combine_all_yearly_contributions=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF)
 ![Top Repositories](https://github-contributor-stats.vercel.app/api?username=aditij0918&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!--## 🔥 GitHub Streak -->
