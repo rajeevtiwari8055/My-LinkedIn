@@ -99,24 +99,6 @@
 ![Sensitivity Analysis](https://img.shields.io/badge/Sensitivity_Analysis-DC2626?style=for-the-badge)
 ![Altman Z Score](https://img.shields.io/badge/Altman_Z--Score-991B1B?style=for-the-badge)
 
-<!-- ## 📉 Risk & Investment Management-->
- ***📉 Risk & Investment Management***
-
-![Security Analysis](https://img.shields.io/badge/Security_Analysis-14532D?style=for-the-badge)
-![Portfolio Management](https://img.shields.io/badge/Portfolio_Management-15803D?style=for-the-badge)
-![Stock Market Risk](https://img.shields.io/badge/Stock_Market_Risk_Assessment-B91C1C?style=for-the-badge)
-![Risk Analysis](https://img.shields.io/badge/Risk_Analysis-9A3412?style=for-the-badge)
-![Credit Risk Analysis](https://img.shields.io/badge/Credit_Risk_Analysis-7F1D1D?style=for-the-badge)
-![Leveraged Buyout](https://img.shields.io/badge/Leveraged_Buyouts_(LBO)-4C1D95?style=for-the-badge)
-
-<!-- ## 🏦 Accounting & Corporate Financ -->
- ***🏦 Accounting & Corporate Finance***
-
-![Financial Accounting](https://img.shields.io/badge/Financial_Accounting-0C4A6E?style=for-the-badge)
-![Corporate Finance](https://img.shields.io/badge/Corporate_Finance-075985?style=for-the-badge)
-![Business Forecasting](https://img.shields.io/badge/Business_Forecasting-0369A1?style=for-the-badge)
-![Performance Analysis](https://img.shields.io/badge/Performance_Analysis-0284C7?style=for-the-badge)
-
 <!-- ## 🌍 Business & Management -->
  ***🌍 Business & Management***
 
@@ -156,7 +138,8 @@
 
 <!-- ## 🧠 Soft Skills -->
  ***🧠 Soft Skills***
- 
+
+![Financial Accounting](https://img.shields.io/badge/Financial_Accounting-0C4A6E?style=for-the-badge)
 ![Leadership](https://img.shields.io/badge/Leadership-1F2937?style=for-the-badge)
 ![Communication](https://img.shields.io/badge/Communication-2563EB?style=for-the-badge)
 ![Marketing](https://img.shields.io/badge/Marketing-DB2777?style=for-the-badge)
