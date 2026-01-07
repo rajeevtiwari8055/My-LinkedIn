@@ -76,8 +76,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)
 ![AI Assisted Analytics](https://img.shields.io/badge/AI%20Assisted%20Analytics-teal?style=for-the-badge&logo=openai)
 ![Predictive Analysis](https://img.shields.io/badge/Predictive_Analysis-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
-![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Maths Stats](https://img.shields.io/badge/Mathematics%20%26%20Statistics-black?style=for-the-badge)
+![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
 
 <!-- ## Dynamic Line  -->
