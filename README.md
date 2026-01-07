@@ -88,10 +88,10 @@
 
 ![Financial Analysis](https://img.shields.io/badge/Financial_Analysis-1E3A8A?style=for-the-badge)
 ![Ratio Analysis](https://img.shields.io/badge/Ratio_Analysis-2563EB?style=for-the-badge)
-![Altman Z Score](https://img.shields.io/badge/Altman_Z--Score-991B1B?style=for-the-badge)
-![DCF Valuation](https://img.shields.io/badge/DCF_Valuation-7C3AED?style=for-the-badge)
 ![Cash Flow Analysis](https://img.shields.io/badge/Cash_Flow_Analysis-0F766E?style=for-the-badge)
 ![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Altman Z Score](https://img.shields.io/badge/Altman_Z--Score-991B1B?style=for-the-badge)
+![DCF Valuation](https://img.shields.io/badge/DCF_Valuation-7C3AED?style=for-the-badge)
 ![DuPont Analysis](https://img.shields.io/badge/DuPont_Analysis-1D4ED8?style=for-the-badge)
 ![Sensitivity Analysis](https://img.shields.io/badge/Sensitivity_Analysis-DC2626?style=for-the-badge)
 
