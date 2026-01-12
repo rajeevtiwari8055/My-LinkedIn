@@ -13,7 +13,7 @@
 
 <!-- 👤 About Me -->
 <img src="About.gif" alt="about me" width="35"/><img src="About me1.gif" alt="Aboutme" width="120">
-<img align='right' src="Coordinator.gif" alt="Coding Girl" width="250">
+<img align='right' src="Coordinator.gif" alt="Coding Girl" width="200">
 
 - *Passionate BBA (Finance) student with a minor in International Business.*
 - *Strong leadership, communication, and coordination skills.*
@@ -175,41 +175,14 @@
 <!-- ## 🚀 GitHub Performance Overview -->
 <img src="Github Overview.gif" height="160" width="150">&nbsp;***GitHub Performance Overview***
 
-<!-- ## 🧮 GitHub Metrics -->
-<img src="Metrics1.gif" width="40">&nbsp;***GitHub Metrics***
-<p align="center">
-  <img src="https://metrics.lecoq.io/aditij0918" />
-</p>
-
-<!-- ## 👨‍💻 Profile Summary Card --> 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
+<!-- ## 🧠 Contribution Pulse -->
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Contribution Pulse***
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditij0918&theme=github_dark)
-
-<!-- ## 📊 GitHub Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditij0918&theme=github_dark)
-
-<!-- ## 🔝 Top Contributed Repositories-->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3bnJtZjFhNXFta3YzOGZmdHBqYWFwbjZtY2gwbzhjM2tkNnM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LHZyixOnHwDDy/giphy.webp" width="40">&nbsp;***Top Contributed Repositories***
-
 ![Top Repositories](https://github-contributor-stats.vercel.app/api?username=aditij0918&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
-<!--## 🔥 GitHub Streak -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFibGZjZjBnMWlsZzJid3Vub3V0bjd5bTJub3Z4eXFiMjRlMnMwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RKZ9KzCcxMd0k/giphy.webp" width="40">&nbsp;***GitHub Streak***
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditij0918&theme=github_dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditij091&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditij0918&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
-
-<!--## 📈 Activity Graph -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph***
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditij0918&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
-
-<!-- ## 🐍 Snake Contribution Animation -->
-<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30">&nbsp;***Snake Contribution Animation*** 
-
-<div align="center">
- 
-![snake gif](https://github.com/aditij0918/aditij0918/blob/output/github-snake-dark.svg)
- 
-</div> -->
 
 <!-- ## Dynamic Line  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
