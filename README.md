@@ -177,11 +177,14 @@
 
 <!-- ## 🧠 Contribution Pulse -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Contribution Pulse***
+
+![Security](https://img.shields.io/badge/Security-Verified-228B22?style=for-the-badge&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/aditij0918/aditij0918?style=for-the-badge&logo=git)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditij0918&theme=github_dark)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditij0918&theme=github_dark)
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=aditij0918&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![Overall Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditij0918&theme=github_dark)
+![languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditij0918&theme=github_dark)
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditij0918&theme=github_dark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditij091&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditij0918&theme=github-dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditij0918&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
 <!-- ## Dynamic Line  -->
