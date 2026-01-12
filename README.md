@@ -184,8 +184,8 @@
 ![Overall Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditij0918&theme=github_dark)
 ![languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditij0918&theme=github_dark)
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditij0918&theme=github_dark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditij0918&theme=github-dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditij0918&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditij0918&theme=github-dark&hide_border=true)
 
 <!-- ## Dynamic Line  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
