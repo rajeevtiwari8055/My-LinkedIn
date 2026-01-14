@@ -182,7 +182,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/aditij0918/aditij0918?style=for-the-badge&logo=git)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditij0918&theme=github_dark)
 ![Overall Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditij0918&theme=github_dark)
-![languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditij0918&theme=github_dark)
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditij0918&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyoti-1665&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditij0918&theme=github-dark&hide_border=true)
