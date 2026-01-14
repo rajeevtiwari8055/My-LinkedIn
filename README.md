@@ -184,7 +184,7 @@
 ![Overall Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditij0918&theme=github_dark)
 ![languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditij0918&theme=github_dark)
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditij0918&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditij0918&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyoti-1665&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditij0918&theme=github-dark&hide_border=true)
 
 <!-- ## Dynamic Line  -->
@@ -215,3 +215,5 @@
 </a>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=120&section=footer" width="100%"/>
