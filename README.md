@@ -149,7 +149,8 @@
 - ***Best Performer*** `Apr 2025`<br>
 *Panel Discussion by GCC on topic - Invisible Load and Emotional Labour*
 
-- **1st Prize on Legal Lens Quiz Competition and Case Analysis***
+- ***1st Prize***<br>
+*on Legal Lens Quiz Competition and Case Analysis*
 `Mar 2025`
 
 - ***Honoured for being a Panelist in an insightful Panel Discussion on Future of Startups in New Evolving World***
