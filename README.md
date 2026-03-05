@@ -174,7 +174,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ## 🚀 GitHub Performance Overview -->
-<img src="Github Overview.gif" height="200" width="160">&nbsp;***GitHub Performance Overview***
+<img src="Github Overview.gif" height="200" width="200">&nbsp;***GitHub Performance Overview***
 
 <!-- ## 🧠 Contribution Pulse -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Contribution Pulse***
