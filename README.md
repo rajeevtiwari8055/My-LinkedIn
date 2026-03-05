@@ -154,7 +154,7 @@
 
 - ***Honoured for being a Panelist in an insightful Panel Discussion*** <br> `Associated with JIMS` `Feb 2025` <br> *on Future of Startups in New Evolving World*
 
-- ***Group discussion and extempore*** `Associated with JIMS` `Jan 2025`<br> *Issued by Gender Championship Club*
+- ***Group discussion and extempore*** <br> `Associated with JIMS` `Jan 2025`<br> *Issued by Gender Championship Club*
 
 <!-- ## 📬 Connect with Me -->
 <img alt="contact" width="35" src="Contact bird.gif" /><img src="Contact.gif" width="150" alt="Contact Me"/>
