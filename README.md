@@ -152,13 +152,9 @@
 - ***1st Prize*** `Mar 2025`<br>
 *on Legal Lens Quiz Competition and Case Analysis*
 
-- ***Honoured for being a Panelist in an insightful Panel Discussion*** <br>
-*on Future of Startups in New Evolving World*
-`Associated with JIMS` `Feb 2025`
+- ***Honoured for being a Panelist in an insightful Panel Discussion*** `Associated with JIMS` `Feb 2025` <br> *on Future of Startups in New Evolving World*
 
-- ***Group discussion and extempore***<br>
-*Issued by Gender Championship Club*
-`Associated with JIMS` `Jan 2025`
+- ***Group discussion and extempore*** `Associated with JIMS` `Jan 2025`<br> *Issued by Gender Championship Club*
 
 <!-- ## 📬 Connect with Me -->
 <img alt="contact" width="35" src="Contact bird.gif" /><img src="Contact.gif" width="150" alt="Contact Me"/>
